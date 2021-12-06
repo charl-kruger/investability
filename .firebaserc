@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "investability-b4a2e": {
+      "hosting": {
+        "investability": [
+          "investability-b4a2e"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "investability-b4a2e"
+  }
+}
